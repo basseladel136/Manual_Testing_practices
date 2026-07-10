@@ -1,1 +1,0 @@
-# Manual_Testing_practices
