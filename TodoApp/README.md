@@ -5,8 +5,8 @@ In this project I tried to apply my skills in manual testing by:
 - [x] design and implement tests.
 
 ## Work products
-- [Test Cases](PASTE_YOUR_GOOGLE_SHEET_LINK_HERE) — 56 manual test cases covering Signup, Login, and the Todo page.
-- [Bug Reports](PASTE_YOUR_GOOGLE_SHEET_LINK_HERE).
+- [Test Cases](https://docs.google.com/spreadsheets/d/1_Qwo2OKEjIuOzz6eK3P4e4hzSGId2rywxD_UIVd33SM/edit?usp=sharing) — 56 manual test cases covering Signup, Login, and the Todo page.
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1bRM1ePHoW_IxJJJ7dH9QP9DYmU4QmA_KR9wXBGu8nVI/edit?usp=sharing) — no bugs found during this testing cycle; all 56 test cases passed.
 
 ## Test levels:
 - System Testing.
